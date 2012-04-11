@@ -1,0 +1,14 @@
+proto (0.3-9-1cran1) testing; urgency=low
+
+  * cran2deb svn: 343 with DB version 1.
+
+ -- cran2deb autobuild <cran2deb@gmail.com>  Sat, 19 Mar 2011 14:24:25 +0000
+
+
+proto (0.3-8-1cran1) testing; urgency=low
+
+  * cran2deb svn: 343 with DB version 1.
+
+ -- cran2deb autobuild <cran2deb@gmail.com>  Sun, 13 Feb 2011 20:52:55 +0000
+
+

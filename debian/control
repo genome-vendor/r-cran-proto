@@ -1,0 +1,20 @@
+Source: proto
+Section: gnu-r
+Priority: optional
+Maintainer: cran2deb autobuild <cran2deb@gmail.com>
+Build-Depends: r-base-dev, xvfb, xauth, xfonts-base, r-base-core,
+ debhelper (>> 4.1.0), cdbs
+Standards-Version: 3.9.1
+Homepage: http://r-proto.googlecode.com
+
+Package: r-cran-proto
+Architecture: all
+Depends: r-base-core
+Description: GNU R package "Prototype object-based programming"
+ .
+ An object oriented system using object-based, also called
+ prototype-based, rather than class-based object oriented ideas.
+ .
+ Author: Louis Kates, Thomas Petzoldt
+ .
+ Maintainer: Gabor Grothendieck <ggrothendieck@gmail.com>
