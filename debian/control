@@ -1,0 +1,14 @@
+Source: r-cran-proto
+Section: gnu-r
+Priority: optional
+Maintainer: The Genome Institute <gmt@genome.wustl.edu>
+Build-Depends: r-base-dev, r-base-core, debhelper (>> 4.1.0)
+Homepage: http://r-proto.googlecode.com
+
+Package: r-cran-proto
+Architecture: all
+Maintainer: Gabor Grothendieck <ggrothendieck@gmail.com>
+Description: An object oriented system using object-based, also called prototype-based, rather than class-based object oriented ideas.
+License: Artistic2.0
+Depends: r-base-core
+
